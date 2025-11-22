@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+xgboost
+shap
+streamlit
+nltk
+textblob
+textstat
+openai
+matplotlib
+altair
